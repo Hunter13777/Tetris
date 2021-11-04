@@ -1,0 +1,83 @@
+{
+    "label": [
+        {
+            "textKey": "gamename",
+            "text": {
+                "en": "Tetris",
+                "de": "Tetris"
+            }
+        },
+        {
+            "textKey": "developer",
+            "text": {
+                "en": "Developed by Alexander Zinman",
+                "de": "Entwickelt von Alexander Zinman"
+            }
+        },
+        {
+            "textKey": "pause",
+            "text": {
+                "en": "Game paused",
+                "de": "Spiel unterbrochen"
+            }
+        },
+        {
+            "textKey": "gameLost",
+            "text": {
+                "en": "Game over",
+                "de": "Spiel vorbei"
+            }
+        },
+        {
+            "textKey": "score",
+            "text": {
+                "en": "Score",
+                "de": "Punkte"
+            }
+        },
+        {
+            "textKey": "time",
+            "text": {
+                "en": "Time",
+                "de": "Zeit"
+            }
+        }
+    ],
+    "button": [
+        {
+            "textKey": "quit",
+            "text": {
+                "en": "Quit game",
+                "de": "Spiel verlassen"
+            }
+        },
+        {
+            "textKey": "startGame",
+            "text": {
+                "en": "Play",
+                "de": "Spielen"
+            }
+        },
+        {
+            "textKey": "mainMenu",
+            "text": {
+                "en": "Main menu",
+                "de": "Hauptmenü"
+            }
+        },
+        {
+            "textKey": "continue",
+            "text": {
+                "en": "Continue",
+                "de": "Fortsetzen"
+            }
+        },
+        {
+            "textKey": "restart",
+            "text": {
+                "en": "Restart",
+                "de": "Neustart"
+            }
+        }
+    ]
+}
